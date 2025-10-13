@@ -27,16 +27,20 @@ https://live.obslivestream.com/canal8/index.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="News",Canal N
 http://181.188.216.5:18000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="News",Conecta2TV (720p) [Not 24/7]
-https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe@SD" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="News",Conecta2TV (720p) [Not 24/7]
+https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="CongresoTV.pe@SD" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (720p) [Not 24/7]
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (1080p)
+http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (480p)
+http://38.183.182.166:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ Cuzco (720p) [Not 24/7]
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
@@ -47,6 +51,8 @@ http://181.188.216.5:18000/play/a0m5/index.m3u8
 http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="Undefined",Hechicera TV (720p)
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Latin America (480p)
+http://181.188.216.5:18000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Entertainment",Impacto Televisión (360p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="General",Intuitiva TV (720p)

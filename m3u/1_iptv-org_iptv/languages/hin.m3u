@@ -3,7 +3,7 @@
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Movies" http-referrer="https://onezoo.net",&flix (1080p)
+#EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" group-title="Movies" http-referrer="https://onezoo.net",&flix (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
@@ -299,7 +299,7 @@ https://yuppftalive.akamaized.net/080823/news11bharat/playlist.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://i.imgur.com/9xeIWqm.png" group-title="News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
+#EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="PopPataka.in" tvg-logo="https://i.imgur.com/9NacSLW.png" group-title="Music",Pop Pataka (480p) [Not 24/7]
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
@@ -378,7 +378,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies",Star Gold Select HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (576p)
 http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies HD (1080p)

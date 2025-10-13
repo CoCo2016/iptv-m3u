@@ -35,8 +35,6 @@ https://araxhls.wns.live/hls/stream.m3u8
 https://arkhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ArvanTV.ir" tvg-logo="https://i.postimg.cc/9z3M5pQ9/arvan.png" group-title="Undefined",Arvan TV
 https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AssiratTV.ir" tvg-logo="https://i.postimg.cc/s2NY6ZrF/assirattv.png" group-title="Religious",Assirat TV (576p)
-https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 tvg-id="AtrakTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/292px-Bojnourd_ATRAK_TV.svg.png" group-title="General",Atrak
 https://ncdn.telewebion.com/atrak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AtrinaTV.ir" tvg-logo="https://i.postimg.cc/fLj50H6z/Atrina.png" group-title="Undefined",Atrina TV
@@ -133,8 +131,6 @@ https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.a
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemseries/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="Series",GEM Series Plus
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
-#EXTINF:-1 tvg-id="GEMTV.tr" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Movies",GEM TV
-https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemb/index-0.m3u8
 #EXTINF:-1 tvg-id="GoldStar.ir" tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg" group-title="Movies",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-logo="https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" group-title="Undefined",Golkhane TV

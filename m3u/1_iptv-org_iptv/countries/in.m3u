@@ -15,7 +15,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-id="99TV.in@SD" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="News",99TV (720p)
 https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Movies" http-referrer="https://onezoo.net",&flix (1080p)
+#EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" group-title="Movies" http-referrer="https://onezoo.net",&flix (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
@@ -677,7 +677,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@SD" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+ (1080p) [Not 24/7]
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
+#EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in@SD" tvg-logo="https://i.imgur.com/xMJ2bv9.png" group-title="News",NK TV 24x7 (1080p)
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
@@ -899,7 +899,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies",Star Gold Select HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (576p)
 http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha HD (1080p)
@@ -1032,6 +1032,8 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-id="TribeTV.in" tvg-logo="https://i.imgur.com/zG2P1WZ.png" group-title="General",Tribe TV (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://i.imgur.com/VUzMQ9S.png" group-title="Music",Tunes 6 (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/tunes6/master.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in@SD" tvg-logo="https://i.imgur.com/DuZMoo6.png" group-title="Undefined",TV5 Kannada (396p)
 https://segment.yuppcdn.net/050522/tv5kannada/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5News.in@SD" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="News",TV5 News (576p)
@@ -1160,10 +1162,6 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-zeemarathi
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="News",Zee News Malayalam (720p)
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" tvg-logo="https://i.imgur.com/e1g8qZJ.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Picchar (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-241
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD" tvg-logo="https://i.imgur.com/wnALPbu.png" group-title="Undefined",Zee Punjab Haryana Himachal (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in@SD" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="Undefined",Zee Rajasthan (720p)

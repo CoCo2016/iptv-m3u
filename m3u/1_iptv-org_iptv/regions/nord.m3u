@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1Plus1International.ua@SD" tvg-logo="https://i.imgur.com/LOY0rtp.png" group-title="General",1+1 International
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/11international/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News;Public",24 Horas Internacional
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Althingi.is" tvg-logo="https://i.imgur.com/tKNPdea.png" group-title="Legislative",Althingi (1080p) [Not 24/7]
 https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
@@ -35,7 +37,7 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" group-title="Undefined",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
-#EXTINF:-1 tvg-id="BVN.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png" group-title="Undefined",BVN
+#EXTINF:-1 tvg-id="BVN.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png" group-title="General",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-id="CanalExtremaduraSatelite.es@SD" tvg-logo="https://i.imgur.com/3eWFu7N.png" group-title="General;Public",Canal Extremadura Satelite (1080p)
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8
@@ -46,7 +48,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation;Kids",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV-4 Europe
-https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary (1080p)
@@ -83,7 +85,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0d21e0b-3cc9-4c67-81b6-e33e50a7d888
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews English (720p)
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@Europe" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EWTN.us@Europe" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Europe (720p)
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpressenTV.se" tvg-logo="https://i.imgur.com/ai0BIci.png" group-title="News",Expressen TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
@@ -147,7 +149,7 @@ https://live.miraclechannel.com/hls/miracle1.m3u8
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2
-#EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://i.postimg.cc/4d3rmyGW/mtv.png" group-title="General",MTV (1080p)
+#EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="General",MTV (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV3.fi" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="General" http-referrer="http://195.222.7.17:8002/",MTV3 (576p)
 #EXTVLCOPT:http-referrer=http://195.222.7.17:8002/
@@ -234,8 +236,10 @@ https://svtb-c.akamaized.net/se/svtb/master.m3u8
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
 #EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-logo="https://i.imgur.com/JyJNiXy.png" group-title="Religious",Taivas TV7 (720p)
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@English" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur English (1080p) [Not 24/7]
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@English" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur English (480p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur English HD (1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTEurope.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="General",TGRT Europe (576p)
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Sweden" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective Sweden
@@ -244,8 +248,8 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
 #EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" group-title="Undefined",Top Movies Polska
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (1080p)
-http://92.114.85.72:8000/play/a02v
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (1080p) [Not 24/7]
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV2Bornholm.dk@SD" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Undefined",TV 2/Bornholm (1080p) [Not 24/7]
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]

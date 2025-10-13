@@ -5,8 +5,6 @@ https://30a-tv.com/darcizzle.m3u8
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="Education;Outdoor",Agro TV (1080p)
-http://185.234.111.229:8000/play/a011
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
@@ -23,6 +21,8 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Outdoor",Canal Rural (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",CCTV-17 (2160p)
+http://123.175.209.52:9003/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="ChiveTV.us@SD" tvg-logo="https://i.imgur.com/iUMAOUq.png" group-title="Outdoor",Chive TV (1080p)
 https://linear-941.frequency.stream/dist/stirr/941/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Education;Outdoor",DD Kisan (720p)

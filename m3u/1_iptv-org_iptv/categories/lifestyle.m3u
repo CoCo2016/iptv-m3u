@@ -41,26 +41,30 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="Lifestyle",Cats 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1d9d30b-52fa-4979-a2d6-5066af724ab6
-#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra (1080p)
-https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="Lifestyle",CCTV 女性时尚
-http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra (576p)
+http://213.57.91.138:8000/play/a06p
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p)
+http://123.175.209.52:9003/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo@SD" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="General;Lifestyle;Music;News",CEACOM TV [Not 24/7]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Lifestyle",CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CleoTV.us" tvg-logo="https://i.imgur.com/US0T6DC.png" group-title="Lifestyle",Cleo TV (720p)
-https://fl25.moveonjoy.com/Cleo_TV/index.m3u8
+https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-id="CoolTV.hu" tvg-logo="https://i.imgur.com/rXJtthd.png" group-title="Lifestyle",Cool TV (1080p)
 http://146.59.85.40:89/coolhd/index.m3u8
 #EXTINF:-1 tvg-id="Diva.za" tvg-logo="https://i.imgur.com/U9wMnQ0.png" group-title="Lifestyle",Diva (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Lifestyle",Divinity (1080p)
+http://176.65.146.237:8401/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="DoctorLive.in" tvg-logo="https://i.imgur.com/D6cMaVs.png" group-title="Lifestyle",Doctor Live (720p)
 https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://i.imgur.com/RFfpcoY.png" group-title="Lifestyle",ETV Life (480p)
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="Lifestyle;Shop",Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ua@SD" tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="Lifestyle",Fashion TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120685/fashiontvua/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV Paris (144p)
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",Fashion TV PG16 (144p)
@@ -76,7 +80,7 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Lifestyle",Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="FYI.us@East" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle",FYI East
-https://fl25.moveonjoy.com/FYI/index.m3u8
+https://fl7.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="GEMLife.tr" tvg-logo="https://i.imgur.com/gI8qePa.png" group-title="Lifestyle",GEM Life
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemlife/index-0.m3u8
 #EXTINF:-1 tvg-id="GeminiLife.in@SD" tvg-logo="https://i.imgur.com/ypok7q5.png" group-title="Lifestyle",Gemini Life (576p)
@@ -125,6 +129,8 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://i.imgur.com/7cruYvo.png" group-title="Lifestyle",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Lifestyle",Nova (1080p)
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-logo="https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png" group-title="Lifestyle",ON Style TV
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 #EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/LMeoW0l.png" group-title="Lifestyle",Opportunities in Urban Renaissance Television (OURTV) (720p)
@@ -141,12 +147,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7979-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6afece0b-4e3f-4de4-935d-3288b6200e01
 #EXTINF:-1 tvg-id="PlutoTVFood.us@US" tvg-logo="https://i.imgur.com/HTLo1GG.png" group-title="Lifestyle",Pluto TV Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f50f5a35-cd22-4046-9c5b-355b6f701720
-#EXTINF:-1 tvg-id="PlutoTVHome.us" tvg-logo="https://i.imgur.com/FDxMMBb.png" group-title="Lifestyle",Pluto TV Home
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea
 #EXTINF:-1 tvg-id="PlutoTVHome.us@Austria" tvg-logo="https://i.imgur.com/FDxMMBb.png" group-title="Lifestyle",Pluto TV Home
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede1cd55-a9ba-4c6b-b9b8-13f955d178da
 #EXTINF:-1 tvg-id="PlutoTVHome.us@Germany" tvg-logo="https://i.imgur.com/FDxMMBb.png" group-title="Lifestyle",Pluto TV Home
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea082-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98a9fe20-9187-429d-b9ac-8042d3142022
+#EXTINF:-1 tvg-id="PlutoTVHome.us" tvg-logo="https://i.imgur.com/FDxMMBb.png" group-title="Lifestyle",Pluto TV Home
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea
 #EXTINF:-1 tvg-id="PoradnikZdrowieTV.pl" tvg-logo="https://i.imgur.com/EZP2KWS.png" group-title="Lifestyle",Poradnik Zdrowie TV (1080i)
 https://s-pl-01.mediatool.tv/playout/pzpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD" tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM (1080p)
@@ -159,19 +165,19 @@ https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.s
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="Kids;Lifestyle",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="Lifestyle",Revry
-https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us@Poland" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="Lifestyle",Revry
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="Lifestyle",Revry
+https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryBrasil.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="Lifestyle",Revry Brasil
 https://linear-181.frequency.stream/dist/24i/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/lKMYCkb.png" group-title="Lifestyle",Revry News
-https://linear-44.frequency.stream/dist/24i/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryNews.us@Poland" tvg-logo="https://i.imgur.com/lKMYCkb.png" group-title="Lifestyle",Revry News
 https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/lKMYCkb.png" group-title="Lifestyle",Revry News
+https://linear-44.frequency.stream/dist/24i/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryQueer.us" tvg-logo="" group-title="Lifestyle",Revry Queer (720p)
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/salira-tv-id.png" group-title="Culture;Lifestyle",Salira TV (720p)
+#EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Culture;Lifestyle",Salira TV (720p)
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SoReal.us" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="Lifestyle",So...Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
@@ -211,5 +217,7 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Lifestyle",Сити Эдем МедЗдрав [Not 24/7]
 https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="Lifestyle",女性时尚 (576p)
+http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="HunanWomensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" group-title="Lifestyle",长沙女性 [Geo-blocked]
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8

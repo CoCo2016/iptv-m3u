@@ -9,6 +9,8 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:-1 tvg-id="AsthaTV.id@HD" tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" group-title="Undefined",Astha TV (1080p) [Not 24/7]
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#EXTINF:-1 tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="Undefined",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="General",Balikpapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://i.postimg.cc/D0WYpKD6/bandungtv.png" group-title="General",Bandung TV (360p)
@@ -17,7 +19,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Undefined",Banten TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="Undefined",Banyumas TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/snMxng5.png" group-title="Undefined",Banyumas TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="General",Batam TV (480p) [Not 24/7]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
@@ -79,17 +81,17 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id" tvg-logo="https://i.imgur.com/BaNtB6K.png" group-title="General",Jambi TV (576p) [Not 24/7]
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV (720p) [Not 24/7]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@Bali" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV Bali (576p)
+#EXTINF:-1 tvg-id="JawaPosTV.id@Bali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV Bali (576p)
 http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV Jakarta (720p)
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV Jakarta (720p)
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@Madiun" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV Madiun (720p)
+#EXTINF:-1 tvg-id="JawaPosTV.id@Madiun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV Madiun (720p)
 http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@Magelang" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV Magelang (720p)
+#EXTINF:-1 tvg-id="JawaPosTV.id@Magelang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV Magelang (720p)
 http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@Semarang" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV Semarang (720p)
+#EXTINF:-1 tvg-id="JawaPosTV.id@Semarang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV Semarang (720p)
 http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="General",Jek TV (720p) [Not 24/7]
 http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
@@ -97,6 +99,10 @@ http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="General",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General",JTV (480p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Kediri" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General",JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="Entertainment",K+ (Indonesian subtitle) (576p)
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://i.postimg.cc/xjx4F9Q2/kawanuatv.png" group-title="General",Kawanua TV (720p)
@@ -107,6 +113,8 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Music;News;Religious",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MadaniTV.id@SD" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Religious",Madani TV (720p)
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="General",Madu TV (576p)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="General",Magna Channel (1080p) [Not 24/7]
@@ -141,8 +149,8 @@ https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlis
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="General",Pal TV (720p) [Not 24/7]
 https://v3.siar.us/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PONTV.id@SD" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="Undefined",PONTV
-https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PONTV.id@SD" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="Undefined",PONTV (720p)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Undefined",PSJ TV (1080p)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Undefined",Puja TV Aceh (1080p) [Not 24/7]
@@ -155,8 +163,8 @@ http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RBTVJogja.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png" group-title="General",RBTV Jogja (1080p) [Not 24/7]
 http://live.rbtvjogja.tv/481e185e-72e3-49f6-ad37-e495f911c9e4_output_0.m3u8
-#EXTINF:-1 tvg-id="RCTV.id" tvg-logo="https://i.postimg.cc/DZRB5rpD/rctv.png" group-title="Undefined",RCTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTV.id" tvg-logo="https://i.postimg.cc/DZRB5rpD/rctv.png" group-title="Undefined",RCTV (576p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="Undefined",Riau TV (1080p) [Not 24/7]
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Undefined",Rodja TV (720p)
@@ -169,7 +177,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="Undefined",Salam TV (1080p)
 https://salamtv.siar.us/live/salamtv.m3u8
-#EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/salira-tv-id.png" group-title="Culture;Lifestyle",Salira TV (720p)
+#EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Culture;Lifestyle",Salira TV (720p)
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SampitTV.id" tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="General",Sampit TV (720p) [Not 24/7]
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
@@ -195,6 +203,8 @@ https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.postimg.cc/zvcqGX7K/tegartvlampung.png" group-title="Undefined",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="TimorTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="Undefined",Timor TV (1080p)
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
