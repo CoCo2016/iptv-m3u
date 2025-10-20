@@ -11,8 +11,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",CBN
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="国际",LiveNow
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 group-title="国际",Euronews
@@ -21,8 +19,6 @@ https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
 #EXTINF:-1 group-title="国际",Fox  
 http://mains.services/live/bshorty/Zv5le07a0J/af799bef-3435-478e-9d1a-c7dacda2a672.ts
 #EXTINF:-1 group-title="国际",CBS
@@ -61,28 +57,32 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+#EXTINF:-1 group-title="国际",Eurosport 4K
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
 #EXTINF:-1 group-title="国际",BEIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
-https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
+#https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 #EXTINF:-1 group-title="国际",Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="国际",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 #EXTINF:-1 group-title="国际",Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime Movie
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Entertainment Hub
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Pulse
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Tastemade 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
-https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
+#https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",PowerNation
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Trace Urban
@@ -113,14 +113,6 @@ http://fl41.moveonjoy.com/CRAVE_4/index.m3u8
 http://mains.services/live/bshorty/Zv5le07a0J/e2d27348-6402-4da0-841f-44ac41f5d748.ts
 #EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="GB : SKY CINEMA ANIMATION" tvg-logo="http://145.239.7.84/logos/SCAnimation.png" group-title="国际",SKY CINEMA ANIMATION
 http://mains.services/live/bshorty/Zv5le07a0J/9f764494-a742-45e1-a857-af6515cd098f.ts
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="GB : SKY CINEMA COMEDY" tvg-logo="http://145.239.7.84/logos/SCComedy.png" group-title="国际",SKY CINEMA COMEDY
-http://mains.services/live/bshorty/Zv5le07a0J/be8ae3e0-236e-4e31-9e1a-21faa92ad120.ts
-#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="GB : SKY CINEMA DRAMA" tvg-logo="http://145.239.7.84/logos/SCDrama.png" group-title="国际",SKY CINEMA DRAMA
-http://mains.services/live/bshorty/Zv5le07a0J/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
-#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="GB : SKY CINEMA FAMILY" tvg-logo="http://145.239.7.84/logos/SCFamily.png" group-title="国际",SKY CINEMA FAMILY
-http://mains.services/live/bshorty/Zv5le07a0J/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
-#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="GB : SKY CINEMA GREATS" tvg-logo="http://145.239.7.84/logos/SCGreats.png" group-title="国际",SKY CINEMA GREATS
-http://mains.services/live/bshorty/Zv5le07a0J/55755742-d541-45c1-ae7d-793dc1b71a69.ts
 #EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="GB : SKY CINEMA HITS" tvg-logo="http://145.239.7.84/logos/SCHits.png" group-title="国际",SKY CINEMA HITS
 http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
 #EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="GB : SKY CINEMA PREMIERE" tvg-logo="http://145.239.7.84/logos/SCPremiere.png" group-title="国际",SKY CINEMA PREMIERE
@@ -149,4 +141,3 @@ http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17
 http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
 #EXTINF:-1 group-title="国际",TNT SPORTS 4
 http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
-
