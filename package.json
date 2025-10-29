@@ -1,0 +1,25 @@
+{
+  "name": "iptv-m3u",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "建立本仓库的初衷，自从老牌电视软件(电视家)下线以后，经常疲于寻找各种稳定的直播源。 求人不如求己，自己动手建立个仓库用来收集",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hst1189/iptv-m3u.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hst1189/iptv-m3u/issues"
+  },
+  "homepage": "https://github.com/hst1189/iptv-m3u#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
