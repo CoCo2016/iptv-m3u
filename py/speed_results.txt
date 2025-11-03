@@ -1,4 +1,9 @@
-CCTV10,http://123.163.21.66:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-嘉佳卡通,http://123.163.21.66:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.670 MB/s
-四川卫视,http://123.163.21.66:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-河南电视剧,http://123.163.21.66:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV8,http://123.163.114.66:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV9,http://123.163.114.66:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV10,http://123.163.114.66:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+东南卫视,http://123.163.114.66:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+云南卫视,http://123.163.114.66:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+会议中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/taishan03_1/index.m3u8,0.001 MB/s
+商务中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/jhs02_1/index.m3u8,0.001 MB/s
+山西卫视,http://123.163.114.66:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+礼宴中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8,0.001 MB/s
