@@ -19,10 +19,16 @@ https://cdn-1.pishow.tv/live/397/master.m3u8
 https://cdn-1.pishow.tv/live/1059/master.m3u8
 #EXTINF:-1 tvg-id="CalvaryTV.in@SD" tvg-logo="https://i.imgur.com/BvQzwSp.png" group-title="Undefined",Calvary TV (720p)
 https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-logo="https://i.imgur.com/bCyW32I.png" group-title="Lifestyle",CVR Health (576p)
+https://cdn-6.pishow.tv/live/395/master.m3u8
+#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" tvg-logo="https://i.imgur.com/77RIaqe.png" group-title="Religious",CVR OM Spiritual (576p)
+https://cdn-1.pishow.tv/live/957/master.m3u8
 #EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://i.imgur.com/tmMEsEe.png" group-title="General",DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel HD (1080p)
+http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="ETVAbhiruchi.in@SD" tvg-logo="https://i.imgur.com/3D5SN3E.png" group-title="Cooking",ETV Abhiruchi (1080p)
 https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh (1080p)
@@ -65,6 +71,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in@SD" tvg-logo="https://i.ibb.co/CBgJ4QV/metro-logo.jpg" group-title="General",Metro TV (576p)
 https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NireekshanaTV.in@SD" tvg-logo="https://i.imgur.com/nGJv6QR.png" group-title="Religious",Nireekshana TV (576p)
+https://cdn-1.pishow.tv/live/965/master.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="News",NTV Telugu (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" tvg-logo="https://i.imgur.com/PcU35KQ.png" group-title="Undefined",Raj Musix Telugu (720p)
@@ -75,10 +83,8 @@ http://87.255.35.150:18479
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@SD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Undefined",Sony Pix (1080p)
 http://87.255.35.150:18495
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Undefined" http-referrer="https://nxtlive.net/",Sony Yay! (1080p)
-#EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://nxtlive.net/
-https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0657898986
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Undefined",Sony Yay! (576p)
+http://87.255.35.150:18285
 #EXTINF:-1 tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="Movies",Star Maa Gold (576p)
 http://87.255.35.150:18815
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD (1080p)
@@ -97,6 +103,8 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC.in@SD" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="Religious",SVBC Sri Venkateswara Bhakti Channel (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SwaraSagar.in@SD" tvg-logo="https://i.imgur.com/6m8IIXI.png" group-title="Undefined",Swara Sagar (576p)
+https://cdn-1.pishow.tv/live/1624/master.m3u8
 #EXTINF:-1 tvg-id="TNews.in@SD" tvg-logo="https://i.imgur.com/LYjTtyh.png" group-title="News",T News (720p)
 https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TV5News.in@SD" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="News",TV5 News (576p)

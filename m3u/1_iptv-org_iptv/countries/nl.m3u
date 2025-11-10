@@ -37,8 +37,6 @@ https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&pro
 https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FeelGoodTV.nl@SD" tvg-logo="https://i.postimg.cc/cL90rfY8/feelgoodtv.png" group-title="Undefined",Feel Good TV (720p) [Not 24/7]
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
-#EXTINF:-1 tvg-id="GHtvHolland.nl@SD" tvg-logo="https://i.imgur.com/hOGS5LL.png" group-title="General",GHtv Holland (720p)
-http://37.48.120.77:8080/hls/ghtvonline.m3u8
 #EXTINF:-1 tvg-id="GigantFM.nl@SD" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Music",Gigant FM (720p)
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-id="Haarlem105TV.nl@SD" tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="General",Haarlem105 RTV (720p)
@@ -101,8 +99,6 @@ https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
 https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
 #EXTINF:-1 tvg-id="OmroepFlevoland.nl@SD" tvg-logo="https://i.postimg.cc/QNFSFyYq/omroepflevoland.png" group-title="General",Omroep Flevoland (720p) [Not 24/7]
 https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="TVGelderland.nl@SD" tvg-logo="https://i.imgur.com/1BW6mdw.png" group-title="Undefined",Omroep Gelderland (1080p)
-https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
 #EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="General",Omroep Hoeksche Waard (480p)
 https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepHulst.nl@SD" tvg-logo="https://i.imgur.com/RrQnqId.png" group-title="General",Omroep Hulst TV (720p) [Not 24/7]
