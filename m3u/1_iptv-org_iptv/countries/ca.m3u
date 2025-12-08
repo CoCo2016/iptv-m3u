@@ -316,7 +316,7 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="SVBC2.in@SD" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="Religious",SVBC 2 (576p)
-https://yuppftalive.akamaized.net/080823/svbc2tamil/playlist.m3u8
+http://87.255.35.150:18956
 #EXTINF:-1 tvg-id="SVBC3.in@SD" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="Religious",SVBC 3 (720p)
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in@SD" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="Religious",SVBC 4 (1080p)
@@ -339,8 +339,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca@SD" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Undefined",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca@SD" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN3

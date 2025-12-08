@@ -5,8 +5,6 @@ https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="Documentary;News",Al Arabiya Programs (1080p)
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@HD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary (1080p)
-http://213.57.91.138:8000/play/a06h
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://alternatv.ar/alternatv.png" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV (720p)
@@ -35,16 +33,14 @@ http://49.113.179.174:4022/udp/238.125.3.92:5140
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="ChinaArabTV.ae@SD" tvg-logo="https://i.imgur.com/Wo488Y2.png" group-title="Culture;Documentary",China Arab TV (576p)
-http://213.57.91.138:8000/play/a061
 #EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="Documentary",Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime360.us@SD" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 (720p)
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/512px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary",ČT 2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/512px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary",CT2
+https://flexi-s1.purplecdn.xyz/CT2_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.us@SD" tvg-logo="https://i.imgur.com/73HlRCg.png" group-title="Documentary",Dallas Cowboys Cheerleaders
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
 #EXTINF:-1 tvg-id="DangerTV.us@SD" tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="Documentary",DangerTV
@@ -87,7 +83,7 @@ https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-de
 http://181.188.216.5:18000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Documentary",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HRT3.hr@SD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTINF:-1 tvg-id="HRT3.hr@SD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary",HRT 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr@HD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary",HRT 3 HD (720p)
@@ -112,10 +108,8 @@ http://78.130.250.2:8023/play/a02e/index.m3u8
 http://62.210.211.188:2095/play/a00d
 #EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae@SD" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae@HD" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi HD (1080p)
-http://213.57.91.138:8000/play/a05a
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p) [Not 24/7]
@@ -208,12 +202,12 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV4.ru@HD" tvg-logo="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/tv4logohd.png" group-title="Comedy;Documentary;General;Kids;Movies",TV4 (1080p)
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Documentary;Education;Science" http-referrer="https://tvu.umsa.bo/tvu-internacional",UMSA TVU Internacional (720p)
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Documentary;Education;Science",UMSA TVU Internacional (720p)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.tr@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Documentary",Viasat Explore
 https://tv.arectv29.sbs/live/viasathistory.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar@SD" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science" http-referrer="https://xtrematv.com/?p=1504",Xtrema Animal
+#EXTINF:-1 tvg-id="XtremaAnimal.ar@SD" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="Documentary",История

@@ -81,8 +81,6 @@ http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?authid=0&key=txiptv&playlive
 http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="CHCHomeTheater.cn@SD" tvg-logo="https://i.imgur.com/AwBldBE.png" group-title="Undefined",CHC Home Theater
 http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 tvg-id="ChinaArabTV.ae@SD" tvg-logo="https://i.imgur.com/Wo488Y2.png" group-title="Culture;Documentary",China Arab TV (576p)
-http://213.57.91.138:8000/play/a061
 #EXTINF:-1 tvg-id="CityTheaterChannel.cn@SD" tvg-logo="https://i.imgur.com/QgOIsjO.png" group-title="Entertainment",City Theater Channel
 http://49.113.179.174:4022/udp/238.125.1.60:5140
 #EXTINF:-1 tvg-id="CreationTV.hk@SD" tvg-logo="https://i.imgur.com/f8bTPRn.png" group-title="Religious",Creation TV (720p)
@@ -217,7 +215,7 @@ https://live.ntdtv.com/cwlive220/playlist.m3u8
 http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@West" tvg-logo="https://i.postimg.cc/XYGstDdJ/ntdtv.png" group-title="General",NTD TV West
 https://live.ntdtv.com/uwlive990/playlist.m3u8
-#EXTINF:-1 tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="General" http-referrer="https://rtm-player.glueapi.io/",Okey [Geo-blocked]
+#EXTINF:-1 tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="General",Okey [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo@SD" tvg-logo="https://i.imgur.com/iIfZsD6.png" group-title="General",Ou-Mun Macau Satellite Ch. 96 (720p)

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://i.imgur.com/DSAaC2b.png" group-title="News",4TV News (576p)
 https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 tvg-id="8XM.pk@SD" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Music",8XM (576p)
+http://87.255.35.150:18883
 #EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="News",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="92NewsUK.uk@SD" tvg-logo="https://i.imgur.com/nAldca2.png" group-title="News",92 News UK (576p)
@@ -13,10 +15,10 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 https://video.primexsports.com/pnn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANNNews.in@HD" tvg-logo="https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png" group-title="News",ANN News (720p)
 https://cdn.ottlive.co.in/annnews/index.m3u8
-#EXTINF:-1 tvg-id="ARYDigital.pk@USA" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="General" http-referrer="https://live.arydigital.tv/",ARY Digital USA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ARYDigital.pk@USA" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="General",ARY Digital USA (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ARYMusik.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music" http-referrer="https://live.arydigital.tv/",ARY Musik (1080p)
+#EXTINF:-1 tvg-id="ARYMusik.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik (1080p)
 #EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 #EXTINF:-1 tvg-id="aurLifeHD.pk@SD" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="General",aurLife HD (614p)
@@ -51,6 +53,8 @@ https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Religious",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HadiTV1.iq@SD" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV English and Urdu (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="HKTV.pk@SD" tvg-logo="https://i.imgur.com/brAY4XF.png" group-title="Religious",HK TV (720p)
 https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8
 #EXTINF:-1 tvg-id="HumTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
@@ -71,8 +75,6 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:-1 tvg-id="MBC2.mu@SD" tvg-logo="https://i.imgur.com/u0feOvX.png" group-title="Movies",MBC 2
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
 #EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",Minimax (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="MTA1World.uk@SD" tvg-logo="https://i.postimg.cc/ZYQhv8Cp/mta1world.png" group-title="Religious",MTA1 World (720p)

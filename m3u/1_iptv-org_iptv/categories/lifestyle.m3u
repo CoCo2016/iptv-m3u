@@ -33,8 +33,6 @@ https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CaTine.ro@SD" tvg-logo="https://i.imgur.com/eFNHuIh.png" group-title="Lifestyle",CaTine (720p)
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCSofra.eg@SD" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra (576p)
-http://213.57.91.138:8000/play/a06p
 #EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p)
 http://123.175.209.52:9003/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo@SD" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="General;Lifestyle;Music;News",CEACOM TV [Not 24/7]
@@ -67,6 +65,8 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" group-title="Cooking;Lifestyle",Food Food (576p)
+http://202.164.50.194:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr@SD" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Lifestyle",Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="FYI.us@East" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle",FYI East
@@ -161,9 +161,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Lifestyle",Superyacht TV (1080p)
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TheBeachChannel.us@SD" tvg-logo="https://i.imgur.com/KShaqAp.png" group-title="Lifestyle" http-referrer="https://player.castr.com/",The Beach Channel (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TheBeachChannel.us@SD" tvg-logo="https://i.imgur.com/KShaqAp.png" group-title="Lifestyle",The Beach Channel (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.castr.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://player.castr.com/
 https://stream.castr.com/67320cbb6b3df3c4694581ce/live_a80e55b0a03411efa6eeb56ae1378053/index.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us@Poland" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Lifestyle",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
