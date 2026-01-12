@@ -708,6 +708,8 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News (JP News) (1080p) [Not 24/7]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.ibb.co/Kcg56MFt/long-logo-kaloopy.jpg" group-title="Lifestyle",Kaloopy TV (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (720p)
 https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl@SD" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
@@ -724,6 +726,8 @@ https://tv.intchoson.com/kctv/index.m3u8
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="KpopMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Undefined",Kpop Mix (720p)
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religious",Kuriakos Kids (1080p)
@@ -813,6 +817,8 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="MelRadioTV.ec@SD" tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Entertainment",Mel Radio TV (360p)
 https://eu1.servers10.com:8081/8334/index.m3u8
+#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="Sports",Meridiano TV
+https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id@SD" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="News",Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Entertainment",Metro TV (720p)
@@ -1728,6 +1734,8 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe@SD" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="UrbanMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="Undefined",Urban Mix (720p)
+https://cloud.tvomix.com/URBANMIX/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",USA Network Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="UTV.cl@SD" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Undefined",UTV (720p)

@@ -89,8 +89,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="BomCine.es@SD" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (1080p)
 http://176.65.146.237:8401/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies",Boreal (720p)
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies",Boreal (720p) [Not 24/7]
+https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",Bravo Farsi TV (360p)
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-logo="https://i.postimg.cc/bJV7Ls4M/cafe-film.jpg" group-title="Movies",Cafe Film
@@ -131,10 +131,14 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaHausa.za@SD" tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="Movies",Cinema Hausa (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-id="CinemaWorld.my@SD" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p) [Geo-blocked]
 http://210.210.155.35/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my@Vietnam" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld Vietnam (1080p)
 https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",CineMo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-id="Cinevault80s.us@SD" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (540p) [Geo-blocked]
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicCinema.us@SD" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Movies",Classic Cinema (240p) [Not 24/7]
@@ -520,8 +524,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="Movies",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-#EXTINF:-1 tvg-id="RaiMovie.it@SD" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="Movies",Rai Movie (1080p)
-http://188.60.179.180:8000/play/xxRaiMOviexx
+#EXTINF:-1 tvg-id="RaiMovie.it@SD" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="Movies",Rai Movie (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 #EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" group-title="Movies",Raj Digital Plus (576p)
 http://103.140.254.2:3500/live/683.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Top Movies UK (1080p)
@@ -652,6 +656,10 @@ http://103.167.255.18:8085/play/a0nm/index.m3u8
 http://103.167.255.18:8085/play/a0m9/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (576p)
 http://103.167.255.18:8085/play/a0nd/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies HD (1080p)
+http://103.178.78.151:7505/play/a1ge/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
+http://103.178.78.151:7505/play/a1gd/index.m3u8
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="Movies",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Movies",Star Utsav Movies (576p)
@@ -672,8 +680,6 @@ https://stream.galaxyott.live/live/suriyantv/index.m3u8
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png" group-title="Movies",Tamasha
 https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
-#EXTINF:-1 tvg-id="TataSkyBollywoodPremiere.in@SD" tvg-logo="https://i.imgur.com/VngCqQB.png" group-title="Movies",Tata Sky Bollywood Premiere (1080p)
-http://103.178.78.151:7505/play/a1vu/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p)
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-id="ThalaaTV.in@HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Movies",Thalaa TV (1080p)

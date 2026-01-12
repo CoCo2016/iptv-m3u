@@ -47,6 +47,9 @@ http://69.64.57.208/africable/playlist.m3u8
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1 tvg-id="Afrique54TV.cm@SD" tvg-logo="https://i.imgur.com/WIaRpiS.png" group-title="News",Afrique54 TV (720p)
 https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+#EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-logo="https://i.imgur.com/spQgX7X.png" http-referrer="https://odysee.com" group-title="News",Afrique Media (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
 #EXTINF:-1 tvg-id="AfroMagicChannel.ci@SD" tvg-logo="https://i.imgur.com/yQzXErU.png" group-title="Culture",Afro Magic Channel
 https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
 #EXTINF:-1 tvg-id="AfrocultureTV.ci@SD" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV
@@ -249,6 +252,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd@SD" tvg-logo="https://i.imgur.com/uz2Rsu7.png" group-title="General",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DivinAmourTV.ci@SD" tvg-logo="https://i.imgur.com/UUSAQET.png" group-title="Religious",Divin Amour TV (720p)
 https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="DNTV.ci@SD" tvg-logo="https://i.imgur.com/Pw1ifln.png" group-title="Entertainment",DNTV
@@ -567,6 +572,10 @@ http://fl1.moveonjoy.com/NHL_9/index.m3u8
 http://fl1.moveonjoy.com/NHL_10/index.m3u8
 #EXTINF:-1 tvg-id="NHLCentreIce11.ca@SD" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",NHL Centre Ice 11
 http://fl1.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NietaTV.ml@SD" tvg-logo="https://i.imgur.com/5RoXTaN.png" group-title="Religious",Nieta TV
 http://69.64.57.208/nieta/playlist.m3u8
 #EXTINF:-1 tvg-id="NovelaChannel.ci@SD" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title="Series",Novela Channel (720p) [Not 24/7]
@@ -723,7 +732,7 @@ https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Undefined",RMC Decouverte (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
-#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/169RMCLIFEPETITvLaura.jpg?h=512" group-title="Entertainment;Interactive",RMC Life
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="Entertainment;Interactive",RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="Undefined",RMC Story (1080p)
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8

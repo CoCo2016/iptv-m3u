@@ -119,8 +119,9 @@ https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c04
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="Multimania.lv@SD" tvg-logo="https://i.imgur.com/J9Lwc0T.png" group-title="Animation;Kids",Multimania (Latvia) (576p)
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="MuzzOne.kz@SD" tvg-logo="https://i.imgur.com/nHVABXh.png" group-title="Music",MuzzOne (576p)
-https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
+#EXTINF:-1 tvg-id="MuzzOne.kz@SD" tvg-logo="https://i.imgur.com/nHVABXh.png" http-referrer="https://muzzone.tv/" group-title="Music",MuzzOne
+#EXTVLCOPT:http-referrer=https://muzzone.tv/
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Relax",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="N4.md@SD" tvg-logo="https://i.imgur.com/W9UwCv7.png" group-title="General",N4 (360p) [Not 24/7]
@@ -155,8 +156,8 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="General",Sochi Live HD (720p) [Not 24/7]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Russia (720p)
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://i.imgur.com/4bACa7x.png" group-title="Movies",START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru@SD" tvg-logo="https://i.imgur.com/TXtY5eM.png" group-title="Movies",START World
